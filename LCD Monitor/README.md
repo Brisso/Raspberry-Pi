@@ -1,5 +1,7 @@
 LCD driver for the Raspberry PI Installation<br>
 ====================================================
+SOURCED FROM https://github.com/goodtft/LCD-show
+
 v1.8-20180907<br>
 Update to support MHS35<br>
 Update: <br>
